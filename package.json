@@ -1,0 +1,16 @@
+{
+  "name": "javascript_viewer",
+  "version": "1.0.0",
+  "description": "While you learn you can see what happen",
+  "main": "index.js",
+  "scripts": {
+    "server": "serve -l 8888 ."
+  },
+  "keywords": [],
+  "author": "KroKing",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}

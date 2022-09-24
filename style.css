@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    margin-top: 60px;
+    margin-left: 30%;
+  }
+
+#content{
+    font-size: 1.4em;
+    color: gray;
+  }
